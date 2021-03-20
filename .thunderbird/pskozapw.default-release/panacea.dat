@@ -1,0 +1,94 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (8A=charset)(8B=boxFlags)(8C=hierDelim)(8D=onlineName)(8E=aclFlags)
+  (8F=serverTotal)(90=serverUnseen)(91=serverRecent)(92=indexingPriority)
+  (93=folderName)(94=applyIncomingFilters.empty)(95=applyIncomingFilters)
+  (96=nextUID)(97=MRUTime)(98=dobayes.mailnews@mozilla.org#junk.empty)
+  (99=dobayes.mailnews@mozilla.org#junk)(9A=lastSyncTimeInSec)
+  (80=ns:msg:db:row:scope:folders:all)(81=ns:msg:db:table:kind:folders)
+  (82=key)(83=flags)(84=totalMsgs)(85=totalUnreadMsgs)
+  (86=pendingUnreadMsgs)(87=pendingMsgs)(88=expungedBytes)(89=folderSize)>
+
+<(80
+    =/home/suhamohammed/.thunderbird/pskozapw.default-release/ImapMail/imap.gm\
+ail.com/INBOX.msf)(C3=8083014)(C7=a0f)(740=763)(81=0)(741=a0201a4)(83
+    =ISO-8859-1)(C4=204040)(9F=2f)(85=INBOX)(C8=a1f)(73F=1615970103)
+  (87
+    =/home/suhamohammed/.thunderbird/pskozapw.default-release/Mail/Local Folde\
+rs/Trash.msf)(88=104)(82=ffffffffffffffff)(89=Trash)(8A
+    =/home/suhamohammed/.thunderbird/pskozapw.default-release/Mail/Local Folde\
+rs/Unsent Messages.msf)(8B=804)(8D=Outbox)(8E
+    =/home/suhamohammed/.thunderbird/pskozapw.default-release/Mail/Local Folde\
+rs)(90=ffffffff)(91=)(93
+    =/home/suhamohammed/.thunderbird/pskozapw.default-release/ImapMail/imap.gm\
+ail.com/Drafts.msf)(84=5e)(94=Drafts)(95
+    =/home/suhamohammed/.thunderbird/pskozapw.default-release/ImapMail/imap.gm\
+ail.com/Templates.msf)(96=Templates)(97
+    =/home/suhamohammed/.thunderbird/pskozapw.default-release/ImapMail/imap.gm\
+ail.com/Sent.msf)(98=Sent)(99
+    =/home/suhamohammed/.thunderbird/pskozapw.default-release/ImapMail/imap.gm\
+ail.com/Archives.msf)(9A=Archives)(9B
+    =/home/suhamohammed/.thunderbird/pskozapw.default-release/ImapMail/imap.gm\
+ail.com/[Gmail].msf)(9D=9082014)(9E=60048)(9C=[Gmail])(A0
+    =/home/suhamohammed/.thunderbird/pskozapw.default-release/ImapMail/imap.gm\
+ail.com/[Gmail].sbd/&BicGRAYxBjMGJwYmBkQ- &BicGRAZFBkUGSgYyBik- &Bi47a338fe.ms\
+f)(A2=8082014)(A3=240040)(A4
+    =[Gmail]/&BicGRAYxBjMGJwYmBkQ- &BicGRAZFBkUGSgYyBik- &BigGRgYsBkUGKQ-)
+  (A5
+    =/home/suhamohammed/.thunderbird/pskozapw.default-release/ImapMail/imap.gm\
+ail.com/[Gmail].sbd/&BicGRAYxBjMGJwYmBkQ- &BjoGSgYx- &BicGRAZFBjEGO0cc0f216.ms\
+f)(A8=40082014)(A9=241040)(AA
+    =[Gmail]/&BicGRAYxBjMGJwYmBkQ- &BjoGSgYx- &BicGRAZFBjEGOgZIBig- &BkEGSgZHB\
+ic-)(A7=-1)(AB
+    =/home/suhamohammed/.thunderbird/pskozapw.default-release/ImapMail/imap.gm\
+ail.com/[Gmail].sbd/&BicGRAZFBkcGQAZFBkQGJwYq-.msf)(AD=82114)(AE=250040)
+  (AF=[Gmail]/&BicGRAZFBkcGQAZFBkQGJwYq-)(B0
+    =/home/suhamohammed/.thunderbird/pskozapw.default-release/ImapMail/imap.gm\
+ail.com/[Gmail].sbd/&BigGMQZKBi8- &BkUGMQYzBkQ-.msf)(B3=8082214)(B4=242040)
+  (B5=[Gmail]/&BigGMQZKBi8- &BkUGMQYzBkQ-)(B2=60)(B6
+    =/home/suhamohammed/.thunderbird/pskozapw.default-release/ImapMail/imap.gm\
+ail.com/[Gmail].sbd/&BkMGRA- &BicGRAYoBjEGSgYv-.msf)(B8=8086014)(B9=248040)
+  (BA=[Gmail]/&BkMGRA- &BicGRAYoBjEGSgYv-)(BB
+    =/home/suhamohammed/.thunderbird/pskozapw.default-release/ImapMail/imap.gm\
+ail.com/[Gmail].sbd/&BkUGMwZIBi8GUQYnBio-.msf)(BD=8082414)(BE=240840)
+  (BF=[Gmail]/&BkUGMwZIBi8GUQYnBio-)(C0
+    =/home/suhamohammed/.thunderbird/pskozapw.default-release/ImapMail/imap.gm\
+ail.com/[Gmail].sbd/&BkUGRwZF-.msf)(C2=[Gmail]/&BkUGRwZF-)(742
+    =/home/suhamohammed/.thunderbird/pskozapw.default-release/ImapMail/imap.gm\
+ail.com)>
+{1:^80 {(k^81:c)(s=9)} 
+  [1(^82^80)(^83^C3)(^84^C7)(^85=763)(^86=0)(^87=0)(^88=0)(^89^741)
+    (^8A^83)(^8B^C4)(^8C=2f)(^8D^85)(^8E=0)(^8F^C7)(^90=0)(^91=0)(^96^C8)
+    (^97^73F)(^9A=0)]
+  [2(^82^87)(^83^88)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^93^89)]
+  [3(^82^8A)(^83^8B)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^93^8D)]
+  [4(^82^8E)(^83=0)(^84^90)(^85^90)(^86=0)(^87=0)(^88=0)(^89^82)(^8A=)
+    (^93=)]
+  [5(^82^93)(^83=0)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^8B=0)(^8C=5e)(^8D^94)(^8E=0)(^8F=0)(^90=0)(^91=0)]
+  [6(^82^95)(^83=0)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^8B=0)(^8C=5e)(^8D^96)(^8E=0)(^8F=0)(^90=0)(^91=0)]
+  [7(^82^97)(^83=0)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^8B=0)(^8C=5e)(^8D^98)(^8E=0)(^8F=0)(^90=0)(^91=0)]
+  [8(^82^99)(^83=0)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^8B=0)(^8C=5e)(^8D^9A)(^8E=0)(^8F=0)(^90=0)(^91=0)]
+  [9(^82^9B)(^83^9D)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^8B^9E)(^8C=2f)(^8D^9C)(^8E=0)(^8F=0)(^90=0)(^91=0)(^9A=0)]
+  [A(^82^A0)(^83^A2)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^8B^A3)(^8C=2f)(^8D^A4)(^8E=0)(^8F=0)(^90=0)(^91=0)(^9A=0)]
+  [B(^82^A5)(^83^A8)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^8B^A9)(^8C=2f)(^8D^AA)(^8E=0)(^8F=0)(^90=0)(^91=0)(^92=-1)(^9A=0)]
+  [C(^82^AB)(^83^AD)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^8B^AE)(^8C=2f)(^8D^AF)(^8E=0)(^8F=0)(^90=0)(^91=0)(^92=-1)(^9A=0)]
+  [D(^82^B0)(^83^B3)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^8B^B4)(^8C=2f)(^8D^B5)(^8E=0)(^8F=0)(^90=0)(^91=0)(^92=60)(^9A=0)]
+  [E(^82^B6)(^83^B8)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^8B^B9)(^8C=2f)(^8D^BA)(^8E=0)(^8F=0)(^90=0)(^91=0)(^9A=0)]
+  [F(^82^BB)(^83^BD)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^8B^BE)(^8C=2f)(^8D^BF)(^8E=0)(^8F=0)(^90=0)(^91=0)(^9A=0)]
+  [10(^82^C0)(^83^A2)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^8B^A3)(^8C=2f)(^8D^C2)(^8E=0)(^8F=0)(^90=0)(^91=0)(^9A=0)]
+  [11(^82^742)(^83=0)(^84^90)(^85^90)(^86=0)(^87=0)(^88=0)(^89^82)(^8A=)
+    (^8B=0)(^8C=2f)(^8D=)(^8E=0)(^8F=0)(^90=0)(^91=0)(^9A=0)]}

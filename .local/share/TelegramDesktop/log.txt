@@ -1,0 +1,930 @@
+[2021.03.19 17:32:13] Launched version: 2001007, install beta: [FALSE], alpha: 0, debug mode: [FALSE], test dc: [FALSE]
+[2021.03.19 17:32:13] Executable dir: /usr/bin/, name: telegram-desktop
+[2021.03.19 17:32:13] Initial working dir: /home/suhamohammed/
+[2021.03.19 17:32:13] Working dir: /home/suhamohammed/.local/share/TelegramDesktop/
+[2021.03.19 17:32:13] Command line: telegram-desktop --
+[2021.03.19 17:32:13] Executable path before check: /usr/bin/telegram-desktop
+[2021.03.19 17:32:13] Logs started
+[2021.03.19 17:32:13] Launcher filename: telegramdesktop.desktop
+[2021.03.19 17:32:13] Checking for XDG Desktop Portal...
+[2021.03.19 17:32:14] XDG Desktop Portal is present!
+[2021.03.19 17:32:14] Getting DE, XDG_CURRENT_DESKTOP: 'ubuntu:GNOME'
+[2021.03.19 17:32:14] Getting DE, DESKTOP_SESSION: 'ubuntu'
+[2021.03.19 17:32:14] Getting DE, KDE_SESSION_VERSION: ''
+[2021.03.19 17:32:14] DE: Gnome
+[2021.03.19 17:32:14] Usage of XDG Desktop Portal is disabled.
+[2021.03.19 17:32:14] Connecting local socket to /run/user/1000/20e3d76b978e85253176a097745583af-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2021.03.19 17:32:14] This is the only instance of Telegram, starting server and app...
+[2021.03.19 17:32:14] Moved logging from '/home/suhamohammed/.local/share/TelegramDesktop/log_start1.txt' to '/home/suhamohammed/.local/share/TelegramDesktop/log.txt'!
+[2021.03.19 17:32:14] Old start log 'log_start0.txt' found, deleted: [TRUE]
+[2021.03.19 17:32:15] Primary screen DPI: 96
+[2021.03.19 17:32:15] Error: failed to load 'gdk_x11_drawable_get_xdisplay' function!
+[2021.03.19 17:32:15] App Info: reading settings...
+[2021.03.19 17:32:15] App Info: reading encrypted settings...
+[2021.03.19 17:32:15] Lang Info: Loaded cached, keys: 3079
+[2021.03.19 17:32:15] Lang Error: Unknown tag (key 'lng_mediaview_playback_speed:speed')
+[2021.03.19 17:32:15] OpenAL Logging Level: (not set)
+[2021.03.19 17:32:15] Audio Playback Devices: Built-in Audio Analog Stereo
+[2021.03.19 17:32:15] Audio Playback Default Device: Built-in Audio Analog Stereo
+[2021.03.19 17:32:15] Audio Capture Devices: Built-in Audio Analog Stereo;Monitor of Built-in Audio Analog Stereo
+[2021.03.19 17:32:15] Audio Capture Default Device: Built-in Audio Analog Stereo
+[2021.03.19 17:32:16] System tray available: [TRUE]
+[2021.03.19 17:32:16] Not using D-Bus global menu.
+[2021.03.19 17:32:16] Using Unity launcher counter.
+[2021.03.19 17:32:16] App Info: reading map...
+[2021.03.19 17:32:16] App Info: reading encrypted map...
+[2021.03.19 17:32:16] App Info: reading encrypted user settings...
+[2021.03.19 17:32:16] App Info: encrypted user settings read.
+[2021.03.19 17:32:16] App Info: reading encrypted mtp data...
+[2021.03.19 17:32:16] MTP Info: read keys, current: 4, to destroy: 0
+[2021.03.19 17:32:16] Map read time: 166
+[2021.03.19 17:32:17] TCP Error: network - Network unreachable
+[2021.03.19 17:32:17] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 17:32:17] Export Info: Destroy top bar by controller removal.
+[2021.03.19 17:32:17] Using SNI tray icon.
+[2021.03.19 17:32:18] TCP Error: network - Network unreachable
+[2021.03.19 17:32:18] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 17:32:20] TCP Error: network - Network unreachable
+[2021.03.19 17:32:20] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 17:32:24] TCP Error: network - Network unreachable
+[2021.03.19 17:32:24] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 17:32:25] TCP Error: network - Network unreachable
+[2021.03.19 17:32:25] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 17:32:30] TCP Error: network - Network unreachable
+[2021.03.19 17:32:30] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 17:32:30] TCP Error: network - Network unreachable
+[2021.03.19 17:32:30] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 17:32:31] TCP Error: network - Network unreachable
+[2021.03.19 17:32:31] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 17:32:31] TCP Error: network - Network unreachable
+[2021.03.19 17:32:31] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 17:32:32] TCP Error: network - Network unreachable
+[2021.03.19 17:32:32] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 17:32:33] TCP Error: network - Network unreachable
+[2021.03.19 17:32:33] TCP Error: network - Network unreachable
+[2021.03.19 17:32:33] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 17:32:33] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 17:32:41] TCP Error: network - Network unreachable
+[2021.03.19 17:32:41] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 17:32:42] TCP Error: network - Network unreachable
+[2021.03.19 17:32:42] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 17:32:44] TCP Error: network - Network unreachable
+[2021.03.19 17:32:44] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 17:33:41] TCP Error: network - Network unreachable
+[2021.03.19 17:33:41] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 17:33:42] TCP Error: network - Network unreachable
+[2021.03.19 17:33:42] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 17:33:43] TCP Error: network - Network unreachable
+[2021.03.19 17:33:43] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 17:33:47] TCP Error: network - Network unreachable
+[2021.03.19 17:33:47] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 17:33:56] TCP Error: network - Network unreachable
+[2021.03.19 17:33:56] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 17:34:29] TCP Error: network - Network unreachable
+[2021.03.19 17:34:29] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 17:34:30] TCP Error: network - Network unreachable
+[2021.03.19 17:34:30] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 17:34:32] TCP Error: network - Network unreachable
+[2021.03.19 17:34:32] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 17:34:39] App Info: writing encrypted user settings...
+[2021.03.19 17:34:43] TCP Error: network - Network unreachable
+[2021.03.19 17:34:43] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 17:42:28] TCP Error: network - Network unreachable
+[2021.03.19 17:42:28] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 18:04:00] TCP Error: network - Network unreachable
+[2021.03.19 18:04:00] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 18:17:25] TCP Error: network - Network unreachable
+[2021.03.19 18:17:25] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 18:17:26] TCP Error: network - Network unreachable
+[2021.03.19 18:17:26] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 18:17:28] TCP Error: network - Network unreachable
+[2021.03.19 18:17:28] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 18:21:18] Switching to Qt tray icon...
+[2021.03.19 18:21:18] System tray is not available.
+[2021.03.19 18:23:53] TCP Error: network - Network unreachable
+[2021.03.19 18:23:53] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 18:31:36] Switching to SNI tray icon...
+[2021.03.19 18:31:36] Using SNI tray icon.
+[2021.03.19 19:07:10] TCP Error: network - Network unreachable
+[2021.03.19 19:07:10] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 19:07:34] App Info: writing encrypted user settings...
+[2021.03.19 19:24:33] TCP Error: network - Network unreachable
+[2021.03.19 19:24:33] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 20:37:29] Switching to Qt tray icon...
+[2021.03.19 20:37:29] System tray is not available.
+[2021.03.19 20:37:48] Switching to SNI tray icon...
+[2021.03.19 20:37:48] Using SNI tray icon.
+[2021.03.19 21:12:50] Switching to Qt tray icon...
+[2021.03.19 21:12:50] System tray is not available.
+[2021.03.19 23:10:54] TCP Error: network - Network unreachable
+[2021.03.19 23:10:54] TCP Error: network - Network unreachable
+[2021.03.19 23:10:54] TCP Error: network - Network unreachable
+[2021.03.19 23:10:54] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:11:40] Could not send ping for some seconds, restarting...
+[2021.03.19 23:11:40] TCP Error: network - Network unreachable
+[2021.03.19 23:11:40] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 23:40:21] TCP Error: network - Network unreachable
+[2021.03.19 23:40:21] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 23:40:22] Message Info: bad message notification received (error_code 16) for msg_id = 6941465505901151768, seq_no = 941
+[2021.03.19 23:41:06] Message Info: bad message notification received (error_code 16) for msg_id = 6941465696905675220, seq_no = 946
+[2021.03.19 23:41:06] Message Info: bad message notification received (error_code 16) for msg_id = 6941465697648399704, seq_no = 946
+[2021.03.19 23:41:06] Message Info: bad message notification received (error_code 16) for msg_id = 6941465698526296928, seq_no = 946
+[2021.03.19 23:41:07] Message Info: bad message notification received (error_code 16) for msg_id = 6941465699405805084, seq_no = 946
+[2021.03.19 23:41:07] Message Info: bad message notification received (error_code 16) for msg_id = 6941465700284930060, seq_no = 946
+[2021.03.19 23:41:07] Message Info: bad message notification received (error_code 16) for msg_id = 6941465701166657784, seq_no = 946
+[2021.03.19 23:41:07] Message Info: bad message notification received (error_code 16) for msg_id = 6941465702044529512, seq_no = 946
+[2021.03.19 23:41:07] Message Info: bad message notification received (error_code 16) for msg_id = 6941465702923559996, seq_no = 946
+[2021.03.19 23:41:51] Could not send ping for some seconds, restarting...
+[2021.03.19 23:41:51] TCP Error: network - Network unreachable
+[2021.03.19 23:41:51] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 23:41:52] TCP Error: network - Network unreachable
+[2021.03.19 23:41:52] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 23:50:45] TCP Error: network - Network unreachable
+[2021.03.19 23:50:45] HTTP Error: network error 99 - Network unreachable
+[2021.03.19 23:50:57] Switching to SNI tray icon...
+[2021.03.19 23:50:57] Using SNI tray icon.
+[2021.03.19 23:59:23] TCP Error: network - Network unreachable
+[2021.03.19 23:59:23] TCP Error: network - Network unreachable
+[2021.03.19 23:59:23] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:23] TCP Error: network - Network unreachable
+[2021.03.19 23:59:23] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:24] TCP Error: network - Network unreachable
+[2021.03.19 23:59:24] TCP Error: network - Network unreachable
+[2021.03.19 23:59:24] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:24] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:24] TCP Error: network - Network unreachable
+[2021.03.19 23:59:24] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:24] TCP Error: network - Network unreachable
+[2021.03.19 23:59:24] TCP Error: network - Network unreachable
+[2021.03.19 23:59:24] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:24] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:24] TCP Error: network - Network unreachable
+[2021.03.19 23:59:24] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:24] TCP Error: network - Network unreachable
+[2021.03.19 23:59:24] TCP Error: network - Network unreachable
+[2021.03.19 23:59:24] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:24] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:24] TCP Error: network - Network unreachable
+[2021.03.19 23:59:24] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:24] TCP Error: network - Network unreachable
+[2021.03.19 23:59:24] TCP Error: network - Network unreachable
+[2021.03.19 23:59:24] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:24] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:24] TCP Error: network - Network unreachable
+[2021.03.19 23:59:24] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:25] TCP Error: network - Network unreachable
+[2021.03.19 23:59:25] TCP Error: network - Network unreachable
+[2021.03.19 23:59:25] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:25] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:25] TCP Error: network - Network unreachable
+[2021.03.19 23:59:25] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:27] TCP Error: network - Network unreachable
+[2021.03.19 23:59:27] TCP Error: network - Network unreachable
+[2021.03.19 23:59:27] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:27] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:27] TCP Error: network - Network unreachable
+[2021.03.19 23:59:27] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:31] TCP Error: network - Network unreachable
+[2021.03.19 23:59:31] TCP Error: network - Network unreachable
+[2021.03.19 23:59:31] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:31] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:31] TCP Error: network - Network unreachable
+[2021.03.19 23:59:31] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:39] TCP Error: network - Network unreachable
+[2021.03.19 23:59:39] TCP Error: network - Network unreachable
+[2021.03.19 23:59:39] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:39] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:39] TCP Error: network - Network unreachable
+[2021.03.19 23:59:39] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:47] TCP Error: network - Network unreachable
+[2021.03.19 23:59:47] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.19 23:59:47] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:47] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.19 23:59:47] TCP Error: network - Network unreachable
+[2021.03.19 23:59:47] Config Error: Bad data size 0 required 344
+[2021.03.19 23:59:47] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:47] TCP Error: network - Network unreachable
+[2021.03.19 23:59:47] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:47] TCP Error: network - Network unreachable
+[2021.03.19 23:59:47] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:47] TCP Error: network - Network unreachable
+[2021.03.19 23:59:47] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:47] TCP Error: network - Network unreachable
+[2021.03.19 23:59:47] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:47] TCP Error: network - Network unreachable
+[2021.03.19 23:59:47] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:47] TCP Error: network - Network unreachable
+[2021.03.19 23:59:47] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:48] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.19 23:59:48] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.19 23:59:48] Config Error: Bad data size 0 required 344
+[2021.03.19 23:59:48] TCP Error: network - Network unreachable
+[2021.03.19 23:59:48] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:48] TCP Error: network - Network unreachable
+[2021.03.19 23:59:48] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:49] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.19 23:59:49] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.19 23:59:49] Config Error: Bad data size 0 required 344
+[2021.03.19 23:59:49] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.19 23:59:49] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.19 23:59:49] Config Error: Bad data size 0 required 344
+[2021.03.19 23:59:50] TCP Error: network - Network unreachable
+[2021.03.19 23:59:50] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:50] TCP Error: network - Network unreachable
+[2021.03.19 23:59:50] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:50] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.19 23:59:50] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.19 23:59:50] Config Error: Bad data size 0 required 344
+[2021.03.19 23:59:51] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.19 23:59:51] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.19 23:59:51] Config Error: Bad data size 0 required 344
+[2021.03.19 23:59:52] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.19 23:59:52] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.19 23:59:52] Config Error: Bad data size 0 required 344
+[2021.03.19 23:59:53] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.19 23:59:53] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.19 23:59:53] Config Error: Bad data size 0 required 344
+[2021.03.19 23:59:53] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.19 23:59:53] Config Error: Bad data size 0 required 344
+[2021.03.19 23:59:54] TCP Error: network - Network unreachable
+[2021.03.19 23:59:54] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:54] TCP Error: network - Network unreachable
+[2021.03.19 23:59:54] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:54] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.19 23:59:54] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.19 23:59:54] Config Error: Bad data size 0 required 344
+[2021.03.19 23:59:55] TCP Error: network - Network unreachable
+[2021.03.19 23:59:55] TCP Error: network - Network unreachable
+[2021.03.19 23:59:55] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.19 23:59:55] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:55] TCP Error: network - Network unreachable
+[2021.03.19 23:59:55] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.19 23:59:55] Config Error: Bad data size 0 required 344
+[2021.03.19 23:59:55] TCP Error: network - Network unreachable
+[2021.03.19 23:59:55] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:55] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:55] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:55] TCP Error: network - Network unreachable
+[2021.03.19 23:59:55] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:55] TCP Error: network - Network unreachable
+[2021.03.19 23:59:55] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:55] TCP Error: network - Network unreachable
+[2021.03.19 23:59:55] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:55] TCP Error: network - Network unreachable
+[2021.03.19 23:59:55] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:55] TCP Error: network - Network unreachable
+[2021.03.19 23:59:55] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:55] TCP Error: network - Network unreachable
+[2021.03.19 23:59:55] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:55] TCP Error: network - Network unreachable
+[2021.03.19 23:59:55] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:56] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.19 23:59:56] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.19 23:59:56] Config Error: Bad data size 0 required 344
+[2021.03.19 23:59:56] TCP Error: network - Network unreachable
+[2021.03.19 23:59:56] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:56] TCP Error: network - Network unreachable
+[2021.03.19 23:59:56] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:57] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.19 23:59:57] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.19 23:59:57] Config Error: Bad data size 0 required 344
+[2021.03.19 23:59:57] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.19 23:59:57] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.19 23:59:57] Config Error: Bad data size 0 required 344
+[2021.03.19 23:59:58] TCP Error: network - Network unreachable
+[2021.03.19 23:59:58] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:58] TCP Error: network - Network unreachable
+[2021.03.19 23:59:58] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.19 23:59:58] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.19 23:59:58] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.19 23:59:58] Config Error: Bad data size 0 required 344
+[2021.03.19 23:59:59] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.19 23:59:59] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.19 23:59:59] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:00] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:00] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:00] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:01] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:01] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:00:01] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:01] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:01] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:02] TCP Error: network - Network unreachable
+[2021.03.20 00:00:02] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:02] TCP Error: network - Network unreachable
+[2021.03.20 00:00:02] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:02] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:02] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:00:02] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:03] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:03] TCP Error: network - Network unreachable
+[2021.03.20 00:00:03] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:03] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:03] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:03] TCP Error: network - Network unreachable
+[2021.03.20 00:00:03] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:03] TCP Error: network - Network unreachable
+[2021.03.20 00:00:03] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:03] TCP Error: network - Network unreachable
+[2021.03.20 00:00:03] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:03] TCP Error: network - Network unreachable
+[2021.03.20 00:00:03] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:03] TCP Error: network - Network unreachable
+[2021.03.20 00:00:03] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:03] TCP Error: network - Network unreachable
+[2021.03.20 00:00:03] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:03] TCP Error: network - Network unreachable
+[2021.03.20 00:00:03] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:04] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:04] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:04] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:04] TCP Error: network - Network unreachable
+[2021.03.20 00:00:04] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:04] TCP Error: network - Network unreachable
+[2021.03.20 00:00:04] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:05] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:05] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:00:05] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:05] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:05] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:05] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:06] TCP Error: network - Network unreachable
+[2021.03.20 00:00:06] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:06] TCP Error: network - Network unreachable
+[2021.03.20 00:00:06] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:06] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:06] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:06] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:07] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:07] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:07] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:08] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:08] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:08] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:09] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:09] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:00:09] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:09] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:09] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:10] TCP Error: network - Network unreachable
+[2021.03.20 00:00:10] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:10] TCP Error: network - Network unreachable
+[2021.03.20 00:00:10] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:10] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:10] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:00:10] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:11] TCP Error: network - Network unreachable
+[2021.03.20 00:00:11] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:11] TCP Error: network - Network unreachable
+[2021.03.20 00:00:11] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:11] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:11] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:11] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:11] TCP Error: network - Network unreachable
+[2021.03.20 00:00:11] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:11] TCP Error: network - Network unreachable
+[2021.03.20 00:00:11] TCP Error: network - Network unreachable
+[2021.03.20 00:00:11] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:11] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:11] TCP Error: network - Network unreachable
+[2021.03.20 00:00:11] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:11] TCP Error: network - Network unreachable
+[2021.03.20 00:00:11] TCP Error: network - Network unreachable
+[2021.03.20 00:00:11] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:11] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:11] TCP Error: network - Network unreachable
+[2021.03.20 00:00:11] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:11] TCP Error: network - Network unreachable
+[2021.03.20 00:00:11] TCP Error: network - Network unreachable
+[2021.03.20 00:00:11] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:11] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:11] TCP Error: network - Network unreachable
+[2021.03.20 00:00:11] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:12] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:12] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:12] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:12] TCP Error: network - Network unreachable
+[2021.03.20 00:00:12] TCP Error: network - Network unreachable
+[2021.03.20 00:00:12] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:12] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:12] TCP Error: network - Network unreachable
+[2021.03.20 00:00:12] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:13] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:13] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:13] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:13] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:13] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:00:13] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:14] TCP Error: network - Network unreachable
+[2021.03.20 00:00:14] TCP Error: network - Network unreachable
+[2021.03.20 00:00:14] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:14] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:14] TCP Error: network - Network unreachable
+[2021.03.20 00:00:14] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:14] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:14] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:14] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:15] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:15] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:15] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:16] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:16] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:16] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:17] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:17] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:17] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:17] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:00:17] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:18] TCP Error: network - Network unreachable
+[2021.03.20 00:00:18] TCP Error: network - Network unreachable
+[2021.03.20 00:00:18] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:18] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:18] TCP Error: network - Network unreachable
+[2021.03.20 00:00:18] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:18] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:18] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:00:18] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:19] TCP Error: network - Network unreachable
+[2021.03.20 00:00:19] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:19] TCP Error: network - Network unreachable
+[2021.03.20 00:00:19] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:19] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:19] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:19] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:19] TCP Error: network - Network unreachable
+[2021.03.20 00:00:19] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:19] TCP Error: network - Network unreachable
+[2021.03.20 00:00:19] TCP Error: network - Network unreachable
+[2021.03.20 00:00:19] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:19] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:19] TCP Error: network - Network unreachable
+[2021.03.20 00:00:19] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:19] TCP Error: network - Network unreachable
+[2021.03.20 00:00:19] TCP Error: network - Network unreachable
+[2021.03.20 00:00:19] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:19] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:19] TCP Error: network - Network unreachable
+[2021.03.20 00:00:19] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:19] TCP Error: network - Network unreachable
+[2021.03.20 00:00:19] TCP Error: network - Network unreachable
+[2021.03.20 00:00:19] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:19] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:19] TCP Error: network - Network unreachable
+[2021.03.20 00:00:19] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:20] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:20] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:20] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:20] TCP Error: network - Network unreachable
+[2021.03.20 00:00:20] TCP Error: network - Network unreachable
+[2021.03.20 00:00:20] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:20] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:20] TCP Error: network - Network unreachable
+[2021.03.20 00:00:20] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:21] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:21] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:21] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:21] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:21] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:00:21] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:22] TCP Error: network - Network unreachable
+[2021.03.20 00:00:22] TCP Error: network - Network unreachable
+[2021.03.20 00:00:22] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:22] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:22] TCP Error: network - Network unreachable
+[2021.03.20 00:00:22] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:22] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:22] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:22] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:23] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:23] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:23] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:24] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:24] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:24] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:25] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:25] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:25] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:25] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:00:25] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:26] TCP Error: network - Network unreachable
+[2021.03.20 00:00:26] TCP Error: network - Network unreachable
+[2021.03.20 00:00:26] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:26] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:26] TCP Error: network - Network unreachable
+[2021.03.20 00:00:26] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:26] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:26] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:00:26] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:27] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:27] TCP Error: network - Network unreachable
+[2021.03.20 00:00:27] TCP Error: network - Network unreachable
+[2021.03.20 00:00:27] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:27] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:27] TCP Error: network - Network unreachable
+[2021.03.20 00:00:27] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:27] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:27] TCP Error: network - Network unreachable
+[2021.03.20 00:00:27] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:27] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:27] TCP Error: network - Network unreachable
+[2021.03.20 00:00:27] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:27] TCP Error: network - Network unreachable
+[2021.03.20 00:00:27] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:27] TCP Error: network - Network unreachable
+[2021.03.20 00:00:27] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:27] TCP Error: network - Network unreachable
+[2021.03.20 00:00:27] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:27] TCP Error: network - Network unreachable
+[2021.03.20 00:00:27] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:27] TCP Error: network - Network unreachable
+[2021.03.20 00:00:27] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:27] TCP Error: network - Network unreachable
+[2021.03.20 00:00:27] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:28] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:28] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:28] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:28] TCP Error: network - Network unreachable
+[2021.03.20 00:00:28] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:28] TCP Error: network - Network unreachable
+[2021.03.20 00:00:28] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:29] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:29] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:00:29] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:29] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:29] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:29] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:30] TCP Error: network - Network unreachable
+[2021.03.20 00:00:30] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:30] TCP Error: network - Network unreachable
+[2021.03.20 00:00:30] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:30] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:30] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:30] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:31] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:31] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:31] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:32] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:32] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:32] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:33] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:33] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:33] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:33] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:00:33] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:34] TCP Error: network - Network unreachable
+[2021.03.20 00:00:34] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:34] TCP Error: network - Network unreachable
+[2021.03.20 00:00:34] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:34] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:34] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:00:34] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:35] TCP Error: network - Network unreachable
+[2021.03.20 00:00:35] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:35] TCP Error: network - Network unreachable
+[2021.03.20 00:00:35] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:35] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:35] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:35] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:35] TCP Error: network - Network unreachable
+[2021.03.20 00:00:35] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:35] TCP Error: network - Network unreachable
+[2021.03.20 00:00:35] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:35] TCP Error: network - Network unreachable
+[2021.03.20 00:00:35] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:35] TCP Error: network - Network unreachable
+[2021.03.20 00:00:35] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:35] TCP Error: network - Network unreachable
+[2021.03.20 00:00:35] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:35] TCP Error: network - Network unreachable
+[2021.03.20 00:00:35] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:36] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:36] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:36] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:36] TCP Error: network - Network unreachable
+[2021.03.20 00:00:36] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:36] TCP Error: network - Network unreachable
+[2021.03.20 00:00:36] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:37] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:37] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:37] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:37] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:37] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:00:37] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:38] TCP Error: network - Network unreachable
+[2021.03.20 00:00:38] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:38] TCP Error: network - Network unreachable
+[2021.03.20 00:00:38] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:38] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:38] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:38] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:39] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:39] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:39] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:40] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:40] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:40] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:41] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:41] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:41] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:41] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:00:41] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:42] TCP Error: network - Network unreachable
+[2021.03.20 00:00:42] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:42] TCP Error: network - Network unreachable
+[2021.03.20 00:00:42] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:42] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:42] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:00:42] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:43] TCP Error: network - Network unreachable
+[2021.03.20 00:00:43] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:43] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:43] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:43] TCP Error: network - Network unreachable
+[2021.03.20 00:00:43] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:43] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:43] TCP Error: network - Network unreachable
+[2021.03.20 00:00:43] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:43] TCP Error: network - Network unreachable
+[2021.03.20 00:00:43] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:43] TCP Error: network - Network unreachable
+[2021.03.20 00:00:43] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:43] TCP Error: network - Network unreachable
+[2021.03.20 00:00:43] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:43] TCP Error: network - Network unreachable
+[2021.03.20 00:00:43] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:43] TCP Error: network - Network unreachable
+[2021.03.20 00:00:43] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:44] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:44] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:44] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:44] TCP Error: network - Network unreachable
+[2021.03.20 00:00:44] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:44] TCP Error: network - Network unreachable
+[2021.03.20 00:00:44] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:45] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:45] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:45] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:45] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:45] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:00:45] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:46] TCP Error: network - Network unreachable
+[2021.03.20 00:00:46] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:46] TCP Error: network - Network unreachable
+[2021.03.20 00:00:46] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:46] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:46] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:46] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:47] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:47] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:47] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:48] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:48] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:48] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:49] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:49] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:49] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:49] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:00:49] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:50] TCP Error: network - Network unreachable
+[2021.03.20 00:00:50] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:50] TCP Error: network - Network unreachable
+[2021.03.20 00:00:50] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:50] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:50] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:00:50] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:51] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:51] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:51] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:51] TCP Error: network - Network unreachable
+[2021.03.20 00:00:51] TCP Error: network - Network unreachable
+[2021.03.20 00:00:51] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:51] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:51] TCP Error: network - Network unreachable
+[2021.03.20 00:00:51] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:51] TCP Error: network - Network unreachable
+[2021.03.20 00:00:51] TCP Error: network - Network unreachable
+[2021.03.20 00:00:51] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:51] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:51] TCP Error: network - Network unreachable
+[2021.03.20 00:00:51] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:51] TCP Error: network - Network unreachable
+[2021.03.20 00:00:51] TCP Error: network - Network unreachable
+[2021.03.20 00:00:51] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:51] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:51] TCP Error: network - Network unreachable
+[2021.03.20 00:00:51] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:51] TCP Error: network - Network unreachable
+[2021.03.20 00:00:51] TCP Error: network - Network unreachable
+[2021.03.20 00:00:51] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:51] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:51] TCP Error: network - Network unreachable
+[2021.03.20 00:00:51] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:52] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:52] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:52] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:52] TCP Error: network - Network unreachable
+[2021.03.20 00:00:52] TCP Error: network - Network unreachable
+[2021.03.20 00:00:52] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:52] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:52] TCP Error: network - Network unreachable
+[2021.03.20 00:00:52] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:53] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:53] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:53] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:53] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:53] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:00:53] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:54] TCP Error: network - Network unreachable
+[2021.03.20 00:00:54] TCP Error: network - Network unreachable
+[2021.03.20 00:00:54] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:54] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:54] TCP Error: network - Network unreachable
+[2021.03.20 00:00:54] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:54] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:54] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:54] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:55] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:55] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:55] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:56] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:56] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:56] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:57] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:57] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:57] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:57] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:00:57] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:58] TCP Error: network - Network unreachable
+[2021.03.20 00:00:58] TCP Error: network - Network unreachable
+[2021.03.20 00:00:58] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:58] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:58] TCP Error: network - Network unreachable
+[2021.03.20 00:00:58] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:58] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:58] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:00:58] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:59] TCP Error: network - Network unreachable
+[2021.03.20 00:00:59] TCP Error: network - Network unreachable
+[2021.03.20 00:00:59] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:59] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:59] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:00:59] TCP Error: network - Network unreachable
+[2021.03.20 00:00:59] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:00:59] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:59] Config Error: Bad data size 0 required 344
+[2021.03.20 00:00:59] TCP Error: network - Network unreachable
+[2021.03.20 00:00:59] TCP Error: network - Network unreachable
+[2021.03.20 00:00:59] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:59] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:59] TCP Error: network - Network unreachable
+[2021.03.20 00:00:59] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:59] TCP Error: network - Network unreachable
+[2021.03.20 00:00:59] TCP Error: network - Network unreachable
+[2021.03.20 00:00:59] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:59] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:59] TCP Error: network - Network unreachable
+[2021.03.20 00:00:59] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:59] TCP Error: network - Network unreachable
+[2021.03.20 00:00:59] TCP Error: network - Network unreachable
+[2021.03.20 00:00:59] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:59] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:00:59] TCP Error: network - Network unreachable
+[2021.03.20 00:00:59] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:00] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:01:00] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:01:00] Config Error: Bad data size 0 required 344
+[2021.03.20 00:01:00] TCP Error: network - Network unreachable
+[2021.03.20 00:01:00] TCP Error: network - Network unreachable
+[2021.03.20 00:01:00] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:00] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:00] TCP Error: network - Network unreachable
+[2021.03.20 00:01:00] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:01] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:01:01] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:01:01] Config Error: Bad data size 0 required 344
+[2021.03.20 00:01:01] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:01:01] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:01:01] Config Error: Bad data size 0 required 344
+[2021.03.20 00:01:02] TCP Error: network - Network unreachable
+[2021.03.20 00:01:02] TCP Error: network - Network unreachable
+[2021.03.20 00:01:02] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:02] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:02] TCP Error: network - Network unreachable
+[2021.03.20 00:01:02] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:02] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:01:02] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:01:02] Config Error: Bad data size 0 required 344
+[2021.03.20 00:01:03] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:01:03] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:01:03] Config Error: Bad data size 0 required 344
+[2021.03.20 00:01:04] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:01:04] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:01:04] Config Error: Bad data size 0 required 344
+[2021.03.20 00:01:05] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:01:05] Config Error: Bad data size 0 required 344
+[2021.03.20 00:01:05] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:01:05] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:01:05] Config Error: Bad data size 0 required 344
+[2021.03.20 00:01:06] TCP Error: network - Network unreachable
+[2021.03.20 00:01:06] TCP Error: network - Network unreachable
+[2021.03.20 00:01:06] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:06] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:06] TCP Error: network - Network unreachable
+[2021.03.20 00:01:06] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:06] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:01:06] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:01:06] Config Error: Bad data size 0 required 344
+[2021.03.20 00:01:07] TCP Error: network - Network unreachable
+[2021.03.20 00:01:07] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:07] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:01:07] TCP Error: network - Network unreachable
+[2021.03.20 00:01:07] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:01:07] Config Error: Bad data size 0 required 344
+[2021.03.20 00:01:07] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:07] TCP Error: network - Network unreachable
+[2021.03.20 00:01:07] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:07] TCP Error: network - Network unreachable
+[2021.03.20 00:01:07] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:07] TCP Error: network - Network unreachable
+[2021.03.20 00:01:07] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:07] TCP Error: network - Network unreachable
+[2021.03.20 00:01:07] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:07] TCP Error: network - Network unreachable
+[2021.03.20 00:01:07] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:07] TCP Error: network - Network unreachable
+[2021.03.20 00:01:07] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:08] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:01:08] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:01:08] Config Error: Bad data size 0 required 344
+[2021.03.20 00:01:08] TCP Error: network - Network unreachable
+[2021.03.20 00:01:08] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:08] TCP Error: network - Network unreachable
+[2021.03.20 00:01:08] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:09] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:01:09] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:01:09] Config Error: Bad data size 0 required 344
+[2021.03.20 00:01:09] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:01:09] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:01:09] Config Error: Bad data size 0 required 344
+[2021.03.20 00:01:10] TCP Error: network - Network unreachable
+[2021.03.20 00:01:10] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:10] TCP Error: network - Network unreachable
+[2021.03.20 00:01:10] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:10] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:01:10] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:01:10] Config Error: Bad data size 0 required 344
+[2021.03.20 00:01:11] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:01:11] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:01:11] Config Error: Bad data size 0 required 344
+[2021.03.20 00:01:12] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:01:12] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:01:12] Config Error: Bad data size 0 required 344
+[2021.03.20 00:01:13] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:01:13] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:01:13] Config Error: Bad data size 0 required 344
+[2021.03.20 00:01:13] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:01:13] Config Error: Bad data size 0 required 344
+[2021.03.20 00:01:14] TCP Error: network - Network unreachable
+[2021.03.20 00:01:14] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:14] TCP Error: network - Network unreachable
+[2021.03.20 00:01:14] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:14] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:01:14] Config Error: Failed to parse fire response JSON, error: illegal value
+[2021.03.20 00:01:14] Config Error: Bad data size 0 required 344
+[2021.03.20 00:01:15] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:01:15] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:01:15] TCP Error: network - Network unreachable
+[2021.03.20 00:01:15] Config Error: Bad data size 0 required 344
+[2021.03.20 00:01:15] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:15] TCP Error: network - Network unreachable
+[2021.03.20 00:01:15] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:15] TCP Error: network - Network unreachable
+[2021.03.20 00:01:15] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:15] TCP Error: network - Network unreachable
+[2021.03.20 00:01:15] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:15] TCP Error: network - Network unreachable
+[2021.03.20 00:01:15] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:15] TCP Error: network - Network unreachable
+[2021.03.20 00:01:15] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:15] TCP Error: network - Network unreachable
+[2021.03.20 00:01:15] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:15] TCP Error: network - Network unreachable
+[2021.03.20 00:01:15] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:16] Config Error: Failed to get response, error: Network access is disabled. (99)
+[2021.03.20 00:01:16] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.03.20 00:01:16] Config Error: Bad data size 0 required 344
+[2021.03.20 00:01:16] TCP Error: network - Network unreachable
+[2021.03.20 00:01:16] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:16] TCP Error: network - Network unreachable
+[2021.03.20 00:01:16] HTTP Error: network error 99 - Network access is disabled.
+[2021.03.20 00:01:18] TCP Error: network - Network unreachable
+[2021.03.20 00:01:18] HTTP Error: network error 99 - Network unreachable
+[2021.03.20 00:01:31] TCP Error: network - Network unreachable
+[2021.03.20 00:01:31] HTTP Error: network error 99 - Network unreachable
+[2021.03.20 00:28:39] App Info: writing encrypted user settings...
+[2021.03.20 00:29:58] App Info: writing encrypted user settings...
+[2021.03.20 01:23:51] TCP Error: network - Network unreachable
+[2021.03.20 01:23:51] HTTP Error: network error 99 - Network unreachable
+[2021.03.20 01:23:52] TCP Error: network - Network unreachable
+[2021.03.20 01:23:52] HTTP Error: network error 99 - Network unreachable
+[2021.03.20 01:24:20] App Info: writing encrypted user settings...

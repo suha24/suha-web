@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="telegramdesktop.desktop" score="169.109375" last-seen="1616193731"/>
+    <application id="google-chrome.desktop" score="356" last-seen="1616195728"/>
+    <application id="keepassxc_keepassxc.desktop" score="6" last-seen="1615987014"/>
+    <application id="gnome-control-center.desktop" score="18841.362213134766" last-seen="1615909068"/>
+    <application id="apport-gtk.desktop" score="3" last-seen="1616193756"/>
+    <application id="org.gnome.eog.desktop" score="0" last-seen="1616193758"/>
+    <application id="libreoffice-calc.desktop" score="531" last-seen="1616013493"/>
+    <application id="org.gnome.Nautilus.desktop" score="196.68753051757812" last-seen="1616230499"/>
+    <application id="update-manager.desktop" score="0" last-seen="1615631357"/>
+    <application id="snap-store_ubuntu-software.desktop" score="341" last-seen="1615991682"/>
+    <application id="org.gnome.gedit.desktop" score="0" last-seen="1616230502"/>
+    <application id="code_code.desktop" score="7776.65625" last-seen="1616230512"/>
+    <application id="firefox.desktop" score="1825.0570983886719" last-seen="1616067643"/>
+    <application id="org.gnome.Terminal.desktop" score="63" last-seen="1615991777"/>
+    <application id="brave_brave.desktop" score="22" last-seen="1615986887"/>
+    <application id="thunderbird.desktop" score="2" last-seen="1616193189"/>
+  </context>
+</application-state>

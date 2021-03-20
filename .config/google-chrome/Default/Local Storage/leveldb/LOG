@@ -1,0 +1,6 @@
+2021/03/20-11:56:28.823 3 Reusing MANIFEST /home/suhamohammed/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2021/03/20-11:56:28.825 3 Recovering log #7
+2021/03/20-11:56:28.826 3 Reusing old log /home/suhamohammed/.config/google-chrome/Default/Local Storage/leveldb/000007.log 
+2021/03/20-11:56:44.847 3 Level-0 table #11: started
+2021/03/20-11:56:44.899 3 Level-0 table #11: 14779 bytes OK
+2021/03/20-11:56:44.934 3 Delete type=0 #7

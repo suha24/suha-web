@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/suhamohammed/Downloads/code_1.53.2-1613044664_amd64.deb.part" added="2021-03-03T22:05:36Z" modified="2021-03-03T22:05:36Z" visited="2021-03-04T12:23:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-partial-download"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-03-03T22:05:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Downloads/code_1.53.2-1613044664_amd64(1).deb" added="2021-03-03T22:05:52Z" modified="2021-03-05T20:52:18Z" visited="2021-03-04T12:23:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-03-03T22:05:52Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-03-05T20:52:18Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Desktop/%3C!DOCTYPE.html%3E" added="2021-03-04T12:23:58Z" modified="2021-03-04T12:23:58Z" visited="2021-03-04T12:23:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-04T12:23:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Desktop/suha.html" added="2021-03-04T12:24:39Z" modified="2021-03-04T12:24:39Z" visited="2021-03-04T12:24:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-04T12:24:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed" added="2021-03-04T15:16:47Z" modified="2021-03-04T15:16:47Z" visited="2021-03-06T19:16:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="gitg" exec="&apos;gitg %u&apos;" modified="2021-03-04T15:16:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Downloads/tsetup.2.6.1.tar.xz.part" added="2021-03-05T12:17:05Z" modified="2021-03-05T12:17:05Z" visited="2021-03-06T19:16:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-partial-download"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-03-05T12:17:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Downloads/code_1.53.2-1613044664_amd64.deb" added="2021-03-05T12:17:17Z" modified="2021-03-05T12:17:22Z" visited="2021-03-06T19:16:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-03-05T12:17:17Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-03-05T12:17:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Downloads/tsetup.2.6.1.tar(1).xz.part" added="2021-03-05T12:41:26Z" modified="2021-03-05T12:41:26Z" visited="2021-03-06T19:16:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-partial-download"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-03-05T12:41:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Downloads/tsetup.2.6.1.tar(1).xz(1).part" added="2021-03-05T12:41:37Z" modified="2021-03-05T12:41:37Z" visited="2021-03-06T19:16:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-partial-download"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-03-05T12:41:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Downloads/tsetup.2.6.1.tar.xz" added="2021-03-05T13:35:21Z" modified="2021-03-05T13:35:21Z" visited="2021-03-06T19:16:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-03-05T13:35:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Downloads/tsetup.2.6.1.tar(3).xz" added="2021-03-05T20:08:19Z" modified="2021-03-05T20:16:02Z" visited="2021-03-06T19:16:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-03-05T20:08:19Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-03-05T20:16:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Downloads" added="2021-03-05T20:19:50Z" modified="2021-03-05T20:19:50Z" visited="2021-03-06T19:16:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2021-03-05T20:19:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Downloads/tsetup.2.6.1.tar(1).xz" added="2021-03-05T20:21:04Z" modified="2021-03-05T20:52:28Z" visited="2021-03-06T19:16:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-03-05T20:52:28Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Downloads/code_1.53.2-1613044664_amd64(1).deb.part" added="2021-03-05T20:52:09Z" modified="2021-03-05T20:52:09Z" visited="2021-03-06T19:16:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-partial-download"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-03-05T20:52:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html/C&amp;R.html" added="2021-03-06T17:04:16Z" modified="2021-03-16T14:49:36Z" visited="2021-03-06T19:16:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-03-06T17:04:16Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-03-06T17:04:25Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-16T14:49:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html/login.html" added="2021-03-06T17:06:00Z" modified="2021-03-19T21:26:23Z" visited="2021-03-06T19:16:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-03-06T17:06:00Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-19T21:26:23Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html/fitnessgym.html" added="2021-03-06T17:06:16Z" modified="2021-03-19T21:39:52Z" visited="2021-03-06T19:16:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-03-06T17:06:16Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-19T21:39:52Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html/healthyfood.html" added="2021-03-06T17:06:36Z" modified="2021-03-19T21:26:12Z" visited="2021-03-06T19:16:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-03-06T17:06:36Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-19T21:26:12Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Downloads/Telegram%20Desktop/styles.css" added="2021-03-06T17:07:40Z" modified="2021-03-06T17:07:40Z" visited="2021-03-06T19:16:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-03-06T17:07:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html/styles.css" added="2021-03-06T17:07:52Z" modified="2021-03-19T22:51:57Z" visited="2021-03-06T19:16:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-03-06T17:07:52Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-19T22:51:57Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html/home.html" added="2021-03-06T17:08:28Z" modified="2021-03-19T22:15:29Z" visited="2021-03-06T19:16:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-03-06T17:08:28Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-03-13T11:23:46Z" count="2"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-19T22:15:29Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html" added="2021-03-06T19:16:16Z" modified="2021-03-19T22:35:42Z" visited="2021-03-06T19:16:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-06T19:16:16Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-03-19T22:35:42Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Desktop/su/ssss" added="2021-03-06T19:54:08Z" modified="2021-03-06T19:54:08Z" visited="2021-03-06T19:57:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2021-03-06T19:54:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Desktop/su/ssss.odt" added="2021-03-06T19:54:09Z" modified="2021-03-06T19:54:41Z" visited="2021-03-06T19:57:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2021-03-06T19:54:41Z" count="5"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-03-06T19:54:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Desktop/su/ssss.pdf" added="2021-03-06T19:54:41Z" modified="2021-03-06T19:54:41Z" visited="2021-03-06T19:57:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2021-03-06T19:54:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Desktop/su/ssss.pdf.odt" added="2021-03-06T19:54:42Z" modified="2021-03-06T19:54:55Z" visited="2021-03-06T19:57:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2021-03-06T19:54:55Z" count="4"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-03-06T19:54:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Desktop/ssss.html" added="2021-03-06T19:57:08Z" modified="2021-03-06T19:57:08Z" visited="2021-03-06T19:57:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-06T19:57:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Desktop/su" added="2021-03-06T19:57:33Z" modified="2021-03-06T19:57:33Z" visited="2021-03-06T19:57:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-06T19:57:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Desktop" added="2021-03-06T19:57:54Z" modified="2021-03-19T23:06:15Z" visited="2021-03-06T19:57:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-06T19:57:54Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-03-19T23:06:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Desktop/su/ssss.html" added="2021-03-06T20:08:35Z" modified="2021-03-06T20:08:35Z" visited="2021-03-13T11:27:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-03-06T20:08:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html/%3CHTML%3E.html" added="2021-03-16T14:53:52Z" modified="2021-03-17T10:29:23Z" visited="2021-03-16T14:53:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-17T10:29:23Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html/ssss.css" added="2021-03-16T17:10:06Z" modified="2021-03-17T10:30:03Z" visited="2021-03-16T17:10:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-17T10:30:03Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html/hom.html" added="2021-03-17T09:14:31Z" modified="2021-03-17T10:32:26Z" visited="2021-03-17T09:14:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-17T10:32:26Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html/suhaa.html" added="2021-03-17T11:32:52Z" modified="2021-03-18T11:15:47Z" visited="2021-03-17T11:32:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-18T11:15:47Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html/sty.css" added="2021-03-17T11:40:41Z" modified="2021-03-17T11:40:41Z" visited="2021-03-17T11:40:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-17T11:40:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Downloads/google-chrome-stable_current_amd64.deb" added="2021-03-17T13:31:18Z" modified="2021-03-17T14:33:05Z" visited="2021-03-17T19:15:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-03-17T13:31:18Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-03-17T14:33:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Downloads/Telegram%20Desktop/Schedule-MARCH.xls" added="2021-03-17T13:35:15Z" modified="2021-03-17T14:16:43Z" visited="2021-03-17T19:15:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.ms-excel"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2021-03-17T14:16:43Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Downloads/Telegram%20Desktop/Schedule-march%20leavework2.xls" added="2021-03-17T13:36:21Z" modified="2021-03-17T14:05:53Z" visited="2021-03-17T19:15:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.ms-excel"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2021-03-17T14:05:53Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Downloads/Telegram%20Desktop/Schedule-march%20leavework3.xls" added="2021-03-17T14:05:46Z" modified="2021-03-17T14:24:46Z" visited="2021-03-17T19:15:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.ms-excel"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2021-03-17T14:11:24Z" count="6"/>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-03-17T14:24:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Downloads/Telegram%20Desktop/Schedule-march%20leavework3" added="2021-03-17T14:09:50Z" modified="2021-03-17T14:09:50Z" visited="2021-03-17T19:15:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2021-03-17T14:09:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Desktop/Schedule-march%20leavework3" added="2021-03-17T14:11:23Z" modified="2021-03-17T14:17:51Z" visited="2021-03-17T19:15:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2021-03-17T14:17:51Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Desktop/Schedule-march%20leavework3.xls" added="2021-03-17T14:11:24Z" modified="2021-03-17T14:39:39Z" visited="2021-03-17T19:15:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.ms-excel"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2021-03-17T14:39:39Z" count="22"/>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-03-17T14:15:26Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-03-17T14:26:46Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Downloads/Telegram%20Desktop/Schedule-march%20leavework3%20(2).xls" added="2021-03-17T14:23:16Z" modified="2021-03-17T14:24:00Z" visited="2021-03-17T19:15:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.ms-excel"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2021-03-17T14:24:00Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Downloads/Telegram%20Desktop/Schedule-march%20leavework3%20(3).xls" added="2021-03-17T14:24:34Z" modified="2021-03-17T14:24:34Z" visited="2021-03-17T19:15:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.ms-excel"/>
+        <bookmark:applications>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-03-17T14:24:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Desktop/Schedule-march%20leavework4.xls" added="2021-03-17T14:39:34Z" modified="2021-03-17T18:47:12Z" visited="2021-03-17T19:15:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.ms-excel"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2021-03-17T18:46:43Z" count="13"/>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-03-17T18:47:12Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Downloads/Telegram%20Desktop/Schedule-march%20leavework3%20(4).xls" added="2021-03-17T14:40:04Z" modified="2021-03-17T14:40:04Z" visited="2021-03-17T19:15:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.ms-excel"/>
+        <bookmark:applications>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-03-17T14:40:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Desktop/Schedule-march%20leavework4" added="2021-03-17T18:40:35Z" modified="2021-03-17T18:40:35Z" visited="2021-03-17T19:15:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2021-03-17T18:40:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html/j.html" added="2021-03-18T11:05:23Z" modified="2021-03-18T11:15:57Z" visited="2021-03-18T11:05:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-18T11:15:57Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html/jj.css" added="2021-03-18T11:07:35Z" modified="2021-03-19T22:13:17Z" visited="2021-03-18T11:07:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-19T22:13:17Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html/s.html" added="2021-03-18T11:46:46Z" modified="2021-03-18T11:46:46Z" visited="2021-03-18T11:46:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-18T11:46:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html/suha.html" added="2021-03-18T11:47:21Z" modified="2021-03-18T11:47:21Z" visited="2021-03-18T11:47:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-18T11:47:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html/st.css" added="2021-03-18T11:49:58Z" modified="2021-03-19T22:13:01Z" visited="2021-03-18T11:49:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-19T22:13:01Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html/alaa.css" added="2021-03-18T12:14:10Z" modified="2021-03-18T12:14:10Z" visited="2021-03-18T12:14:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-18T12:14:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html/ala.html" added="2021-03-18T12:15:28Z" modified="2021-03-18T12:15:28Z" visited="2021-03-18T12:15:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-18T12:15:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html2/imagies/photo_2021-03-19_17-34-28.jpg" added="2021-03-19T14:34:39Z" modified="2021-03-19T14:34:39Z" visited="2021-03-19T14:40:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-03-19T14:34:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html2/imagies/img1.jpg" added="2021-03-19T14:39:50Z" modified="2021-03-19T14:39:50Z" visited="2021-03-19T14:40:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-03-19T14:39:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html/web.html" added="2021-03-19T14:40:22Z" modified="2021-03-19T22:30:28Z" visited="2021-03-19T14:40:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-19T14:40:22Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-03-19T22:30:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html2/imagies/rain.jpg" added="2021-03-19T14:42:43Z" modified="2021-03-19T14:42:43Z" visited="2021-03-19T14:46:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-03-19T14:42:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html2/images/set.jpg" added="2021-03-19T16:07:34Z" modified="2021-03-19T16:10:47Z" visited="2021-03-19T21:24:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-03-19T16:07:34Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-03-19T16:10:46Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-03-19T16:10:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html2/images/logo.jpg" added="2021-03-19T16:24:45Z" modified="2021-03-19T16:24:45Z" visited="2021-03-19T21:24:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-03-19T16:24:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html2/images/hf.jpg" added="2021-03-19T20:51:31Z" modified="2021-03-19T20:51:31Z" visited="2021-03-19T21:24:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-03-19T20:51:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html2/images/fit.jpg" added="2021-03-19T20:51:41Z" modified="2021-03-19T20:51:41Z" visited="2021-03-19T21:24:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-03-19T20:51:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html2/images/code.jpg" added="2021-03-19T20:52:09Z" modified="2021-03-19T20:52:09Z" visited="2021-03-19T21:24:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-03-19T20:52:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Downloads/Telegram%20Desktop/logi.html" added="2021-03-19T21:28:48Z" modified="2021-03-19T21:28:48Z" visited="2021-03-19T21:30:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-03-19T21:28:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html/loginn.html" added="2021-03-19T21:29:57Z" modified="2021-03-19T21:42:38Z" visited="2021-03-19T21:30:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-03-19T21:29:57Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-19T21:42:38Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html2/fitness.MP4" added="2021-03-19T22:24:20Z" modified="2021-03-19T22:24:20Z" visited="2021-03-19T22:40:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-03-19T22:24:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html2/code.MP4" added="2021-03-19T22:24:33Z" modified="2021-03-19T22:24:33Z" visited="2021-03-19T22:40:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2021-03-19T22:24:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html2/videos" added="2021-03-19T22:26:46Z" modified="2021-03-19T22:26:53Z" visited="2021-03-19T22:40:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-03-19T22:26:53Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html2/css" added="2021-03-19T22:29:13Z" modified="2021-03-19T22:29:13Z" visited="2021-03-19T22:40:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-03-19T22:29:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html2/css/jj.css" added="2021-03-19T22:29:21Z" modified="2021-03-20T08:58:58Z" visited="2021-03-19T22:40:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-03-19T22:29:21Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-03-19T22:29:23Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-20T08:58:58Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html2/main%20html/C&amp;R.html" added="2021-03-19T22:41:48Z" modified="2021-03-19T22:59:26Z" visited="2021-03-19T22:41:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-19T22:59:26Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html2/main%20html/fitnessgym.html" added="2021-03-19T22:53:25Z" modified="2021-03-19T22:53:25Z" visited="2021-03-19T22:53:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-19T22:53:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html2/main%20html/healthyfood.html" added="2021-03-19T22:53:38Z" modified="2021-03-19T22:58:49Z" visited="2021-03-19T22:53:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-19T22:53:38Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-03-19T22:58:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html2/main%20html/home.html" added="2021-03-19T22:53:49Z" modified="2021-03-20T08:42:52Z" visited="2021-03-19T22:53:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-20T08:42:52Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html2/main%20html/loginn.html" added="2021-03-19T22:53:57Z" modified="2021-03-19T23:00:57Z" visited="2021-03-19T22:53:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-19T23:00:57Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html2/main%20html/web.html" added="2021-03-19T22:54:11Z" modified="2021-03-20T08:59:20Z" visited="2021-03-19T22:54:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-20T08:59:20Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Documents/html2/css/styles.css" added="2021-03-19T22:59:50Z" modified="2021-03-20T08:45:51Z" visited="2021-03-19T22:59:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-20T08:45:51Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Desktop/html/s.html" added="2021-03-19T23:08:19Z" modified="2021-03-19T23:08:19Z" visited="2021-03-19T23:08:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-19T23:08:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Desktop/HW/CS/st.css" added="2021-03-19T23:11:12Z" modified="2021-03-19T23:11:12Z" visited="2021-03-20T08:41:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-03-19T23:11:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Desktop/html/jj.css" added="2021-03-20T08:40:38Z" modified="2021-03-20T08:57:58Z" visited="2021-03-20T08:41:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-03-20T08:40:38Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-03-20T08:40:42Z" count="2"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-20T08:57:58Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Desktop/html/home.html" added="2021-03-20T08:41:53Z" modified="2021-03-20T08:45:03Z" visited="2021-03-20T08:41:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-20T08:45:03Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suhamohammed/Desktop/html/web.html" added="2021-03-20T08:57:49Z" modified="2021-03-20T08:57:49Z" visited="2021-03-20T08:57:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-03-20T08:57:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

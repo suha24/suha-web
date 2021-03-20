@@ -1,0 +1,19 @@
+[2021.03.20 01:23:33] Launched version: 2001007, install beta: [FALSE], alpha: 0, debug mode: [FALSE], test dc: [FALSE]
+[2021.03.20 01:23:33] Executable dir: /usr/bin/, name: telegram-desktop
+[2021.03.20 01:23:33] Initial working dir: /home/suhamohammed/
+[2021.03.20 01:23:33] Working dir: /home/suhamohammed/.local/share/TelegramDesktop/
+[2021.03.20 01:23:33] Command line: telegram-desktop --
+[2021.03.20 01:23:33] Executable path before check: /usr/bin/telegram-desktop
+[2021.03.20 01:23:33] Logs started
+[2021.03.20 01:23:33] Launcher filename: telegramdesktop.desktop
+[2021.03.20 01:23:33] Checking for XDG Desktop Portal...
+[2021.03.20 01:23:33] XDG Desktop Portal is present!
+[2021.03.20 01:23:33] Getting DE, XDG_CURRENT_DESKTOP: 'ubuntu:GNOME'
+[2021.03.20 01:23:33] Getting DE, DESKTOP_SESSION: 'ubuntu'
+[2021.03.20 01:23:33] Getting DE, KDE_SESSION_VERSION: ''
+[2021.03.20 01:23:33] DE: Gnome
+[2021.03.20 01:23:33] Usage of XDG Desktop Portal is disabled.
+[2021.03.20 01:23:33] Connecting local socket to /run/user/1000/20e3d76b978e85253176a097745583af-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2021.03.20 01:23:33] Socket connected, this is not the first application instance, sending show command...
+[2021.03.20 01:23:33] Show command written, waiting response...
+[2021.03.20 01:23:33] Show command response received, pid = 3609, activating and quitting...

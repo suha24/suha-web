@@ -1,0 +1,61 @@
+[2021-03-20 11:37:18.377] [exthost] [info] extension host started
+[2021-03-20 11:37:18.436] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-03-20 11:37:18.437] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/59/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-03-20 11:37:18.533] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-03-20 11:37:18.534] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/59/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-03-20 11:37:18.548] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-03-20 11:37:18.548] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/59/usr/share/code/resources/app/extensions/git/dist/main
+[2021-03-20 11:37:18.740] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css {"startup":true,"extensionId":{"value":"ecmel.vscode-html-css","_lower":"ecmel.vscode-html-css"},"activationEvent":"*"}
+[2021-03-20 11:37:18.740] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/suhamohammed/.vscode/extensions/ecmel.vscode-html-css-1.10.2/dist/extension.js
+[2021-03-20 11:37:19.019] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-03-20 11:37:19.019] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/suhamohammed/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-03-20 11:37:21.173] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-03-20 11:37:21.173] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/59/usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-03-20 11:37:22.273] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-03-20 11:37:22.273] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/59/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-03-20 11:37:22.294] [exthost] [info] eager extensions activated
+[2021-03-20 11:37:22.306] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-03-20 11:37:22.306] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/59/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-03-20 11:37:22.355] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-03-20 11:37:22.355] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/59/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-03-20 11:37:22.449] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-03-20 11:37:22.449] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/59/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-03-20 11:37:22.478] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-03-20 11:37:22.478] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/59/usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-03-20 11:37:23.114] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/suhamohammed/Desktop/html/<HTML>.html' is in submodule 'html'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-03-20 11:37:23.114] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/suhamohammed/Desktop/html/<HTML>.html' is in submodule 'html'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-03-20 11:37:23.114] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/suhamohammed/Desktop/html/<HTML>.html' is in submodule 'html'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-03-20 11:37:23.114] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/suhamohammed/Desktop/html/<HTML>.html' is in submodule 'html'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-03-20 11:37:23.114] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/suhamohammed/Desktop/html/<HTML>.html' is in submodule 'html'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-03-20 11:37:23.114] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/suhamohammed/Desktop/html/<HTML>.html' is in submodule 'html'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-03-20 11:37:23.114] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/suhamohammed/Desktop/html/<HTML>.html' is in submodule 'html'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-03-20 11:37:23.114] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/suhamohammed/Desktop/html/<HTML>.html' is in submodule 'html'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-03-20 11:37:23.114] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/suhamohammed/Desktop/html/<HTML>.html' is in submodule 'html'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-03-20 11:37:23.114] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/suhamohammed/Desktop/html/<HTML>.html' is in submodule 'html'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-03-20 11:37:23.114] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/suhamohammed/Desktop/html/<HTML>.html' is in submodule 'html'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-03-20 11:37:23.114] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/suhamohammed/Desktop/html/<HTML>.html' is in submodule 'html'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-03-20 11:37:23.114] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/suhamohammed/Desktop/html/<HTML>.html' is in submodule 'html'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-03-20 11:37:23.114] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/suhamohammed/Desktop/html/<HTML>.html' is in submodule 'html'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-03-20 11:37:23.114] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/suhamohammed/Desktop/html/<HTML>.html' is in submodule 'html'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-03-20 11:37:23.114] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/suhamohammed/Desktop/html/<HTML>.html' is in submodule 'html'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-03-20 11:37:23.114] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/suhamohammed/Desktop/html/<HTML>.html' is in submodule 'html'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-03-20 11:37:23.114] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/suhamohammed/Desktop/html/<HTML>.html' is in submodule 'html'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-03-20 11:37:23.114] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/suhamohammed/Desktop/html/<HTML>.html' is in submodule 'html'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-03-20 11:37:23.114] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/suhamohammed/Desktop/html/<HTML>.html' is in submodule 'html'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-03-20 11:37:23.114] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/suhamohammed/Desktop/html/<HTML>.html' is in submodule 'html'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-03-20 11:37:26.947] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-03-20 11:37:26.948] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/59/usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-03-20 11:37:29.484] [exthost] [info] ExtensionService#_doActivateExtension techer.open-in-browser {"startup":false,"extensionId":{"value":"techer.open-in-browser","_lower":"techer.open-in-browser"},"activationEvent":"onCommand:extension.openInSpecifyBrowser"}
+[2021-03-20 11:37:29.484] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/suhamohammed/.vscode/extensions/techer.open-in-browser-2.0.0/out/extension
+[2021-03-20 11:37:30.590] [exthost] [error] [vscode.html-language-features] provider FAILED
+[2021-03-20 11:37:30.591] [exthost] [error] Canceled: Canceled
+	at b.makeCancelError (/snap/code/59/usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain.js:1:64109)
+	at b.handleFailedRequest (/snap/code/59/usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain.js:1:63960)
+	at /snap/code/59/usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain.js:1:24302
+[2021-03-20 11:40:40.301] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/suhamohammed/Desktop/html/jj.css' is in submodule 'html'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-03-20 11:40:48.016] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2021-03-20 11:40:48.016] [exthost] [error] undefined
+[2021-03-20 11:42:14.532] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2021-03-20 11:42:14.532] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/59/usr/share/code/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-03-20 11:54:09.868] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-03-20 11:54:10.894] [exthost] [info] exiting with code 0

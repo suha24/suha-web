@@ -1,0 +1,79 @@
+{
+  "Version": "20.04",
+  "OEM": {
+    "Vendor": "HP",
+    "Product": "HP ProBook 450 G5",
+    "Family": "103C_5336AN HP ProBook"
+  },
+  "BIOS": {
+    "Vendor": "HP",
+    "Version": "Q85 Ver. 01.02.05"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "8",
+    "Threads": "2",
+    "Cores": "4",
+    "Sockets": "1",
+    "Vendor": "GenuineIntel",
+    "Family": "6",
+    "Model": "142",
+    "Stepping": "10",
+    "Name": "Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz",
+    "Virtualization": "VT-x"
+  },
+  "Arch": "amd64",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "5917"
+    }
+  ],
+  "RAM": 8,
+  "Disks": [
+    1000.2
+  ],
+  "Partitions": [
+    959.9,
+    0.5
+  ],
+  "Screens": [
+    {
+      "Size": "344mmx193mm",
+      "Resolution": "1920x1080",
+      "Frequency": "60.06"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "en_US",
+  "Timezone": "America/New_York",
+  "Install": {
+    "Media": "Ubuntu 20.04.2.0 LTS \"Focal Fossa\" - Release amd64 (20210209.1)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "use_device",
+    "DownloadUpdates": false,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": false,
+    "Stages": {
+      "0": "language",
+      "1": "language",
+      "36": "console_setup",
+      "45": "wireless",
+      "153": "prepare",
+      "263": "partman",
+      "277": "start_install",
+      "286": "timezone",
+      "309": "usersetup",
+      "430": "user_done",
+      "2577": "done"
+    }
+  }
+}

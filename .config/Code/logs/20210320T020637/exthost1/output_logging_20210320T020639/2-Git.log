@@ -1,0 +1,32 @@
+Looking for git in: git
+Using git 2.30.1 from git
+> git rev-parse --git-dir
+Open repository: /home/suhamohammed/Desktop/html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :s.html
+> git ls-files --stage -- /home/suhamohammed/Desktop/html/s.html
+> git check-ignore -v -z --stdin
+> git show --textconv :j.html
+> git ls-files --stage -- /home/suhamohammed/Desktop/html/j.html
+> git show --textconv :hom.html
+> git ls-files --stage -- /home/suhamohammed/Desktop/html/hom.html
+> git show --textconv :suha.html
+> git ls-files --stage -- /home/suhamohammed/Desktop/html/suha.html
+> git show --textconv :st.css
+> git ls-files --stage -- /home/suhamohammed/Desktop/html/st.css
+> git show --textconv :suha.html
+> git ls-files --stage -- /home/suhamohammed/Desktop/html/suha.html
+> git show --textconv :s.html
+> git ls-files --stage -- /home/suhamohammed/Desktop/html/s.html
+> git show --textconv :suha.html
+> git ls-files --stage -- /home/suhamohammed/Desktop/html/suha.html
+> git show --textconv :st.css
+> git ls-files --stage -- /home/suhamohammed/Desktop/html/st.css
+> git show --textconv :suha.html
+> git ls-files --stage -- /home/suhamohammed/Desktop/html/suha.html
